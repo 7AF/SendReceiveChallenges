@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\o2.jpg",
+        "source": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\src\\main\\res\\drawable-hdpi\\o2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show.png",
+        "source": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\src\\main\\res\\drawable-hdpi\\show.png"
+    },
+    {
+        "merged": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hide.png",
+        "source": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\src\\main\\res\\drawable-hdpi\\hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\o1.jpg",
+        "source": "C:\\Users\\Matej\\AndroidStudioProjects\\ChallengeMe\\app\\src\\main\\res\\drawable-hdpi\\o1.jpg"
+    }
+]

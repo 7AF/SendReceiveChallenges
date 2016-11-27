@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.challengeme"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity android:name="com.example.challengeme.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.challengeme.Login" />
+        <activity android:name="com.example.challengeme.Signin" />
+        <activity android:name="com.example.challengeme.Welcome" />
+        <activity
+            android:name="com.example.challengeme.SendChallenge"
+            android:label="@string/title_activity_send_challenge" />
+        <activity
+            android:name="com.example.challengeme.Upload"
+            android:label="@string/title_activity_upload" />
+        <activity
+            android:name="com.example.challengeme.Send"
+            android:label="@string/title_activity_send" />
+        <activity
+            android:name="com.example.challengeme.PoslaniIzzivi"
+            android:label="@string/title_activity_poslani_izzivi" />
+        <activity
+            android:name="com.example.challengeme.PrejetiIzzivi"
+            android:label="@string/title_activity_prejeti_izzivi" />
+        <activity
+            android:name="com.example.challengeme.PlayvideofromserverActivity"
+            android:label="@string/title_activity_playvideofromserver" />
+    </application>
+
+</manifest>
